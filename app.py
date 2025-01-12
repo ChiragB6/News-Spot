@@ -11,7 +11,7 @@ nltk.download('punkt')
 app = Flask(__name__)
 
 NEWS_API_KEY = "fd116d1e95394cd5b1460c9a51e63e5e"
-YOUTUBE_API_KEY = "AIzaSyD_NhnNyK4xN7Eq__d4SRwZH9rkWReaoxw"
+YOUTUBE_API_KEY = "AIzaSyC8vm-q8-I4wp0YO0N6HxgmEmK0iCskLkA"
 
 # Channel IDs for Indian news channels
 CHANNEL_IDS = [
