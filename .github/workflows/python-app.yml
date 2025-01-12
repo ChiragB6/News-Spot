@@ -1,4 +1,4 @@
-name: Web Build + Deployment to GitHub Pages
+name: python-app
 
 on:
   push:
